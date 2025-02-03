@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/kailashtvn200o/portfolio.github.io/static/css/main.8554b1a1.css",
+    "main.js": "/kailashtvn200o/portfolio.github.io/static/js/main.9a2347d3.js",
+    "static/css/64.bba8fa55.chunk.css": "/kailashtvn200o/portfolio.github.io/static/css/64.bba8fa55.chunk.css",
+    "static/js/64.56dc6704.chunk.js": "/kailashtvn200o/portfolio.github.io/static/js/64.56dc6704.chunk.js",
+    "static/css/769.b3cbb36b.chunk.css": "/kailashtvn200o/portfolio.github.io/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.ac23312e.chunk.js": "/kailashtvn200o/portfolio.github.io/static/js/769.ac23312e.chunk.js",
+    "static/media/avt.png": "/kailashtvn200o/portfolio.github.io/static/media/avt.185a67c43a023f37758b.png",
+    "static/media/Montserrat-Regular.ttf": "/kailashtvn200o/portfolio.github.io/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/Agustina.woff": "/kailashtvn200o/portfolio.github.io/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/schoollogo.png": "/kailashtvn200o/portfolio.github.io/static/media/schoollogo.99980ec433a4dba70c84.png",
+    "static/media/fablogo.png": "/kailashtvn200o/portfolio.github.io/static/media/fablogo.77a250a0a9bdc2096d33.png",
+    "static/media/developerActivity.svg": "/kailashtvn200o/portfolio.github.io/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/thoonilogo.ico": "/kailashtvn200o/portfolio.github.io/static/media/thoonilogo.7401cf771868e17d380c.ico",
+    "static/media/skill.svg": "/kailashtvn200o/portfolio.github.io/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "static/media/resume.pdf": "/kailashtvn200o/portfolio.github.io/static/media/resume.f0f733dd3cd732b39262.pdf",
+    "index.html": "/kailashtvn200o/portfolio.github.io/index.html",
+    "static/media/talksCardBack.svg": "/kailashtvn200o/portfolio.github.io/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.8554b1a1.css.map": "/kailashtvn200o/portfolio.github.io/static/css/main.8554b1a1.css.map",
+    "main.9a2347d3.js.map": "/kailashtvn200o/portfolio.github.io/static/js/main.9a2347d3.js.map",
+    "64.bba8fa55.chunk.css.map": "/kailashtvn200o/portfolio.github.io/static/css/64.bba8fa55.chunk.css.map",
+    "64.56dc6704.chunk.js.map": "/kailashtvn200o/portfolio.github.io/static/js/64.56dc6704.chunk.js.map",
+    "769.b3cbb36b.chunk.css.map": "/kailashtvn200o/portfolio.github.io/static/css/769.b3cbb36b.chunk.css.map",
+    "769.ac23312e.chunk.js.map": "/kailashtvn200o/portfolio.github.io/static/js/769.ac23312e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8554b1a1.css",
+    "static/js/main.9a2347d3.js"
+  ]
+}
