@@ -1,7 +1,7 @@
 import React, {useState, useEffect, useContext, Suspense, lazy} from "react";
 import "./Project.scss";
 import Button from "../../components/button/Button";
-import {openSource, socialMediaLinks} from "../../portfolio";
+import { socialMediaLinks} from "../../portfolio";
 import StyleContext from "../../contexts/StyleContext";
 import Loading from "../../containers/loading/Loading";
 export default function Projects() {
@@ -39,13 +39,10 @@ export default function Projects() {
   function setrepoFunction(array) {
     setrepo(array);
   }
-  if (
-    !(typeof repo === "string" || repo instanceof String) &&
-    openSource.display
-  ) {
+   {
     return (
       <Suspense fallback={renderLoader()}>
-        <div className="main" id="opensource">
+        {/* <div className="main" id="opensource">
           <h1 className="project-title">Open Source Projects</h1>
           <div className="repo-cards-div-main">
             {repo.map((v, i) => {
@@ -65,10 +62,9 @@ export default function Projects() {
             href={socialMediaLinks.github}
             newTab={true}
           />
-        </div>
+        </div> */}
       </Suspense>
     );
-  } else {
-    return <FailedLoading />;
-  }
+  } 
+
 }

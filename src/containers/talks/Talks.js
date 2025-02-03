@@ -7,15 +7,13 @@ import StyleContext from "../../contexts/StyleContext";
 
 export default function Talks() {
   const {isDark} = useContext(StyleContext);
-  if (!talkSection.display) {
-    return null;
-  }
+ 
   return (
     <Fade bottom duration={1000} distance="20px">
       <div className="main" id="talks">
         <div className="talk-header">
-          <h1 className="talk-header-title">{talkSection.title}</h1>
-          <p
+          {/* <h1 className="talk-header-title">{talkSection.title}</h1> */}
+          {/* <p
             className={
               isDark
                 ? "dark-mode talk-header-subtitle"
@@ -23,8 +21,8 @@ export default function Talks() {
             }
           >
             {talkSection.subtitle}
-          </p>
-          {talkSection.talks.map((talk, i) => {
+          </p> */}
+          {/* {talkSection.talks.map((talk, i) => {
             return (
               <TalkCard
                 key={i}
@@ -38,7 +36,7 @@ export default function Talks() {
                 }}
               />
             );
-          })}
+          })} */}
         </div>
       </div>
     </Fade>
